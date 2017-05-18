@@ -1,0 +1,10 @@
+/HelloWorld/nbproject/private/
+/HelloWorld/build/
+# Compiled source #
+###################
+*.xml
+manifest.mf
+*.properties
+*.class
+*.netbeans_automatic_build
+*.netbeans_update_resources
